@@ -1,0 +1,25 @@
+// файл стилів для стариу (обнуляючий)
+@import "start-style.scss";
+body {
+  margin: 30px;
+  font-size: 20px;
+  margin: 30px 30px 30px 30px;
+}
+h1 {
+  color: green;
+}
+// todo make 2 templates with SCSS
+// ! use the instruments SCSS
+// ? how to do that
+.block {
+  color: red;
+  margin: 10px 20px 0px 0px;
+}
+.red {
+  color: red;
+  font-style: italic;
+}
+.photo {
+  height: 300px;
+  border-radius: 50%;
+}
